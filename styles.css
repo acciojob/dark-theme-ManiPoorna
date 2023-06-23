@@ -3,7 +3,7 @@
 }
 .night{
   background-color: black;
-  color:white;
+  color:lightskyblue;
 }
 
 #swap{
@@ -12,5 +12,6 @@
 
 .button_night{
   background-color:blue;
+	
   color:white; 
 }
